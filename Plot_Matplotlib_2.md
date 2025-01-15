@@ -80,7 +80,7 @@ plt.show()
 
 
     
-![png](output_4_0.png)
+![](Figures/output_4_0.png)
     
 
 
@@ -97,7 +97,7 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+![](Figures/output_6_0.png)
     
 
 
@@ -135,7 +135,7 @@ plt.show()
 
 
     
-![png](output_10_0.png)
+![](Figures/output_10_0.png)
     
 
 
@@ -155,7 +155,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![](Figures/output_12_0.png)
     
 
 
@@ -170,7 +170,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![](Figures/output_13_0.png)
     
 
 
@@ -185,7 +185,7 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![](Figures/output_14_0.png)
     
 
 
@@ -220,7 +220,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![](Figures/output_17_0.png)
     
 
 
@@ -255,7 +255,7 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![](Figures/output_20_0.png)
     
 
 
@@ -273,7 +273,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![](Figures/output_21_0.png)
     
 
 
@@ -290,7 +290,7 @@ plt.show()
 
 
     
-![png](output_22_0.png)
+![](Figures/output_22_0.png)
     
 
 
@@ -326,7 +326,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![](Figures/output_25_0.png)
     
 
 
@@ -350,7 +350,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![](Figures/output_28_0.png)
     
 
 
@@ -373,7 +373,7 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+![](Figures/output_30_0.png)
     
 
 
@@ -391,7 +391,7 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![](Figures/output_32_0.png)
     
 
 
@@ -406,7 +406,7 @@ plt.show()
 
 
     
-![png](output_33_0.png)
+![](Figures/output_33_0.png)
     
 
 
@@ -425,7 +425,7 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+![](Figures/output_35_0.png)
     
 
 
@@ -449,7 +449,7 @@ plt.show()
 
 
     
-![png](output_37_0.png)
+![](Figures/output_37_0.png)
     
 
 
@@ -500,7 +500,7 @@ plt.show()
 
 
     
-![png](output_40_0.png)
+![](Figures/output_40_0.png)
     
 
 
@@ -528,7 +528,7 @@ plt.show()
 
 
     
-![png](output_41_0.png)
+![](Figures/output_41_0.png)
     
 
 
@@ -560,7 +560,7 @@ plt.show()
 
 
     
-![png](output_43_0.png)
+![](Figures/output_43_0.png)
     
 
 
@@ -582,7 +582,7 @@ plt.show()
 
 
     
-![png](output_45_0.png)
+![](Figures/output_45_0.png)
     
 
 
@@ -603,6 +603,6 @@ ax.errorbar(x, y, yerr=0.5, xerr=0.03, marker='o', color='k', mfc='w', mec='y', 
 plt.show()
 ```
     
-![png](output_47_0.png)
+![](Figures/output_47_0.png)
     
 
